@@ -1,1 +1,2 @@
-# Nurse_Care_Activity_Recognition_Challenge_2021
+## Description
+Human Activity Recognition (HAR) is the process of handling information from sensors and/or video capture devices under certain circumstances to correctly determine human activities. Nowadays, several simple and automatic HAR methods based on sensors and Artificial Intelligence platforms can be easily implemented. In this challenge, participants are required to determine the nurse care daily activities by utilizing the accelerometer data collected from the smartphone, which is the cheapest and easy-to-implement way in real life.
